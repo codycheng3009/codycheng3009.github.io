@@ -11,7 +11,7 @@ comments: true
 This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
 **Dyno Side By Side Comparison**
-"/assets/img/HorizontalDyno.mp4"
+<iframe width="640" height="360" src="/assets/img/HorizontalDyno.mp4" frameborder="0" allowfullscreen></iframe>
 
 **Dyno Breakdown**
 <div style="position:relative;height:0;padding:56.25% 0 0 0;"><iframe src="https://www.dartfish.tv/Embed?CR=p191109c538461m7985583&VW=100%&VH=100%&sh=li&aid=accd8f56-2bc5-4737-8a9e-8693ca6b194f" style="position:absolute;display:block;width:100%;height:100%;max-width:100%;max-height:100%;left:0;right:0;top:0;bottom:0;margin:auto;" frameborder="0" allowfullscreen ></iframe></div>
