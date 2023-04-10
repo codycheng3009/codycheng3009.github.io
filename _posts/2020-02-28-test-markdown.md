@@ -8,10 +8,6 @@ tags: [test]
 comments: true
 ---
 
-![HorizontalDyno](https://user-images.githubusercontent.com/123664793/230956586-caaecea6-98e9-4a03-9795-6b8be12a135d.mp4)
-
-
-
 A "dyno" is a term in climbing that refers to a dynamic and powerful movement that requires you to let go of both of your hands to reach a far target hold. This is a common challenge for newer climbers since it requires some coordination and commitment to the move. Don't worry! This page will breakdown the main steps to help you send that tricky dyno.
 
 ## Dyno Side By Side Comparison
