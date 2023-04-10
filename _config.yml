@@ -264,7 +264,6 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      date: "%4 10, %2023"
       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
