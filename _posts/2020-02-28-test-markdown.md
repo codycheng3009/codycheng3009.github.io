@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: How to Dyno
+subtitle: Tips to help you with those pesky dynamic movements to far holds
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
