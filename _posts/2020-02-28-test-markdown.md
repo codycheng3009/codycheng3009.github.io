@@ -6,6 +6,7 @@ gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
+date: 2023-04-10
 ---
 
 A "dyno" is a term in climbing that refers to a dynamic and powerful movement that requires you to let go of both of your hands to reach a far target hold. This is a common challenge for newer climbers since it requires some coordination and commitment to the move. Don't worry! This page will breakdown the main steps to help you send that tricky dyno.
