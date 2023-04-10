@@ -8,10 +8,27 @@ share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+When it comes to climbing, foot placement and using your lower body is one of the most important things you should learn. With this simple guide, you will be provided with the necessities to send your climbs with finesse! Before we dive into the specific techniques, there are a few key points to keep in mind first. 
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+**Foot Placement & Trusting your Feet**
+New climbers often have a fear of falling which leads them to pull too much with their upper body and tires them out quicker before they can send a problem. To make things more efficient, be sure to place your feet properly so that you can take most of the weight off of your arms so you can climb for longer! Here are some tips to ensure proper foot placement:
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+![Foot Placement Poor]
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+Notice how on the left video the side of the foot is placed on the foothold. This prevents you from being able to pivot off of the foot and make it very difficult to stand up higher on your toes which is important for those farther holds. The video on the right shows proper foot placement with the toes placed in the middle of the foothold allowing for pivoting and reaching. 
+
+![Watching your Feet]
+
+Whenever you're climbing, make sure to watch your feet go onto the foothold before looking up and moving your hands. This builds confidence in your feet since you know where you're standing. It will help ease the tension and help you offload your hands more to use your legs. 
+
+## Foot Swapping
+This is an important skill to learn so you can move across the wall to get to distant holds. Sometimes you will need to get your opposite foot onto the same hold which can be challenging. Here are a few different ways you can use to help:
+
+![Space Swap]
+For those bigger footholds, you can simply place your one foot over to the side leaving room for your other foot to be placed on the empty area. 
+
+![Toe on Toe Swap]
+When you don't have enough room to simple place both feet on the foothold, this is a nice method to switch feet. Place one fot directly overtop of the other and slide the bottm foot out. This should make your top foot fall into the desired position. 
+
+![Jump Swap]
+This one is for the flashier and more confident climbers. You simple align your foot overtop of the other and make a small hop to switch out one foot for another. 
