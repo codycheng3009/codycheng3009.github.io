@@ -50,8 +50,10 @@ This one is for the flashier and more confident climbers. You simple align your 
 # Body Positioning
 When climbing, a good rule of thumb to follow is to have opposite limbs in contact with the wall as much as possible to reduce the amount of swinging or "barndoor-ing." It's important to maintain body tension by driving through your feet and engaging your core. Here is an example and a comparison of how you can use foot swapping to improve your efficiency and reduce swinging:
 
-<video width="640" height="360" controls>
-  <source src="https://user-images.githubusercontent.com/123664793/231242131-03ee8302-6185-462c-bc8b-3bab9228768e.mp4" type="video/mp4">
-</video>
+<p align="center">
+  <video width="640" height="360" controls>
+   <source src="https://user-images.githubusercontent.com/123664793/231242131-03ee8302-6185-462c-bc8b-3bab9228768e.mp4" type="video/mp4">
+  </video>
+</p>
 
 <div style="position:relative;height:0;padding:56.25% 0 0 0;"><iframe src="https://www.dartfish.tv/Embed?CR=p191109c538461m7989847&VW=100%&VH=100%&sh=li&aid=accd8f56-2bc5-4737-8a9e-8693ca6b194f" style="position:absolute;display:block;width:100%;height:100%;max-width:100%;max-height:100%;left:0;right:0;top:0;bottom:0;margin:auto;" frameborder="0" allowfullscreen ></iframe></div>
