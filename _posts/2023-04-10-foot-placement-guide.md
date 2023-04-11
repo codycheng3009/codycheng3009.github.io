@@ -24,7 +24,8 @@ Whenever you're climbing, make sure to watch your feet go onto the foothold befo
 ## Foot Swapping
 This is an important skill to learn so you can move across the wall to get to distant holds. Sometimes you will need to get your opposite foot onto the same hold which can be challenging. Here are a few different ways you can use to help:
 
-![Space Swap]
+<div style="position:relative;height:0;padding:56.25% 0 0 0;"><iframe src="https://www.dartfish.tv/Embed?CR=p191109c538461m7985056&VW=100%&VH=100%&sh=li&aid=accd8f56-2bc5-4737-8a9e-8693ca6b194f" style="position:absolute;display:block;width:100%;height:100%;max-width:100%;max-height:100%;left:0;right:0;top:0;bottom:0;margin:auto;" frameborder="0" allowfullscreen ></iframe></div>
+
 For those bigger footholds, you can simply place your one foot over to the side leaving room for your other foot to be placed on the empty area. 
 
 ![Toe on Toe Swap]
