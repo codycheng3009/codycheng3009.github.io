@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Rules & Safety
-subtitle: Essentials to send your first climb safely
+title: Body Positioning & Climbing Efficiently
+subtitle: Essentials to improve your climbing positioning and technique
 tags: [safety, rule]
 comments: true
 date: 2023-04-10
