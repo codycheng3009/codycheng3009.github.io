@@ -5,7 +5,7 @@ subtitle:
 cover-img: /assets/img/globeflag.jpg
 thumbnail-img: /assets/img/globe.png
 share-img: /assets/img/path.jpg
-tags: [books, test]
+tags: [climber, climbers, stats, statistics]
 ---
 
 With the rise in popularity of climbing globally, it's cool to know the distribution of climbers across the globe. This data was taken from a spreadsheet looking at 10,927 climbers and their respective countries of origin. 
