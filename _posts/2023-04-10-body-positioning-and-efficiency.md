@@ -2,7 +2,7 @@
 layout: post
 title: Body Positioning & Climbing Efficiently
 subtitle: Essentials to improve your climbing positioning and technique
-tags: [safety, rule]
+tags: [positioning, efficiency]
 comments: true
 date: 2023-04-10
 ---
