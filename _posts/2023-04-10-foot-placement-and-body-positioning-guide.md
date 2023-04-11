@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Foot Placement Guide
+title: Foot Placement & Body Positioning Guide
 subtitle: Essential Techniques You Should Know
 cover-img: /assets/img/BoulderingWall.jpg
 thumbnail-img: /assets/img/FootPlacement.png
 share-img: /assets/img/path.jpg
-tags: [technique, skill, foot, feet]
+tags: [technique, skill, foot, feet, positioning]
 ---
 
 When it comes to climbing, foot placement and using your lower body is one of the most important things you should learn. With this simple guide, you will be provided with the necessities to send your climbs with finesse! Before we dive into the specific techniques, there are a few key points to keep in mind first. 
