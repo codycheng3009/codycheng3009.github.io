@@ -35,6 +35,8 @@ Volumes are big prism shaped pieces on the walls which can be used for any climb
 
 If you have the energy, try to down climb and avoid jumping down. However, sometimes this isn't possible due the the difficulty of the difficulty. In these cases, make sure to take a deep squat and roll away to disperse the force and prevent serious injury. 
 
+<div style="position:relative;height:0;padding:56.25% 0 0 0;"><iframe src="https://www.dartfish.tv/Embed?CR=p191109c538461m7989947&VW=100%&VH=100%&sh=li&aid=accd8f56-2bc5-4737-8a9e-8693ca6b194f" style="position:absolute;display:block;width:100%;height:100%;max-width:100%;max-height:100%;left:0;right:0;top:0;bottom:0;margin:auto;" frameborder="0" allowfullscreen ></iframe></div>
+
 **Look Before You Climb or Fall**
 
 Since climbing gyms can get pretty busy and cramped, make sure you look at your surrundings before you start your climb so that noone will be crossing over the route that you plan on sending. Also, make sure to look at the wall before walking under so that you avoid the risk of getting landed on. Similarly, before you drop and fall, look down to make sure noone is in your close proximity to avoi collision.
