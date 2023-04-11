@@ -64,3 +64,8 @@ When climbing, a good rule of thumb to follow is to have opposite limbs in conta
 
 **Barn Door Breakdown**
 <div style="position:relative;height:0;padding:56.25% 0 0 0;"><iframe src="https://www.dartfish.tv/Embed?CR=p191109c538461m7989847&VW=100%&VH=100%&sh=li&aid=accd8f56-2bc5-4737-8a9e-8693ca6b194f" style="position:absolute;display:block;width:100%;height:100%;max-width:100%;max-height:100%;left:0;right:0;top:0;bottom:0;margin:auto;" frameborder="0" allowfullscreen ></iframe></div>
+
+**Pulling Perpendicular to the Hold Direction**
+<div style="position:relative;height:0;padding:56.25% 0 0 0;"><iframe src="https://www.dartfish.tv/Embed?CR=p191109c538461m7989910&VW=100%&VH=100%&sh=li&aid=accd8f56-2bc5-4737-8a9e-8693ca6b194f" style="position:absolute;display:block;width:100%;height:100%;max-width:100%;max-height:100%;left:0;right:0;top:0;bottom:0;margin:auto;" frameborder="0" allowfullscreen ></iframe></div>
+
+To help with body positioning, it may also be useful to direct your pulling direction and body tension based on the direction of the hold. By pulling in a perpendicular direction, it makes it easier to hold tension without overexertion which is important for longer or more challenging routes.
