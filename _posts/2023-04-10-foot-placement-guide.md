@@ -54,3 +54,9 @@ Volumes are big prism features that are allowed to be used in any route. They ar
 
 Notice how the left video shows a hesitant climber who is a afraid of slipping on the angled volume. As a result, less contact is made and the chances of slippin are much higher. In the right video, the heel is pressed down so that maximum shoe rubber contact can be made with the volume. This creates much more friction and stability, making it very easy to stand comfortably on the volume.
 
+## Step-Through Technique
+Sometimes you'll need to move across several footholds. In these situations, rather than swapping feet for every foothold you can simply step through to reduce the time of your climb and improve efficiency:
+
+<div style="position:relative;height:0;padding:56.25% 0 0 0;"><iframe src="https://www.dartfish.tv/Embed?CR=p191109c538461m7990023&VW=100%&VH=100%&sh=li&aid=accd8f56-2bc5-4737-8a9e-8693ca6b194f" style="position:absolute;display:block;width:100%;height:100%;max-width:100%;max-height:100%;left:0;right:0;top:0;bottom:0;margin:auto;" frameborder="0" allowfullscreen ></iframe></div>
+
+
