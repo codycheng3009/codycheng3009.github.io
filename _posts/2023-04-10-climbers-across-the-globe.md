@@ -2,7 +2,7 @@
 layout: post
 title: Climbers Across the Globe
 subtitle: 
-cover-img: /assets/img/gloeflags.png
+cover-img: /assets/img/gloeflag.jpg
 thumbnail-img: /assets/img/globe.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
