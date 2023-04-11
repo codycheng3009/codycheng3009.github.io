@@ -11,6 +11,7 @@ tags: [books, test]
 When it comes to climbing, foot placement and using your lower body is one of the most important things you should learn. With this simple guide, you will be provided with the necessities to send your climbs with finesse! Before we dive into the specific techniques, there are a few key points to keep in mind first. 
 
 **Foot Placement & Trusting your Feet**
+
 New climbers often have a fear of falling which leads them to pull too much with their upper body and tires them out quicker before they can send a problem. To make things more efficient, be sure to place your feet properly so that you can take most of the weight off of your arms so you can climb for longer! Here are some tips to ensure proper foot placement:
 
 <div style="position:relative;height:0;padding:56.25% 0 0 0;"><iframe src="https://www.dartfish.tv/Embed?CR=p191109c538461m7988269&VW=100%&VH=100%&sh=li&aid=accd8f56-2bc5-4737-8a9e-8693ca6b194f" style="position:absolute;display:block;width:100%;height:100%;max-width:100%;max-height:100%;left:0;right:0;top:0;bottom:0;margin:auto;" frameborder="0" allowfullscreen ></iframe></div>
@@ -19,6 +20,7 @@ Notice how on the left video the side of the foot is placed on the foothold. Thi
 
 
 **Watching Your Feet**
+
 Whenever you're climbing, make sure to watch your feet go onto the foothold before looking up and moving your hands. This builds confidence in your feet since you know where you're standing. It will help ease the tension and help you offload your hands more to use your legs. 
 
 ## Foot Swapping
