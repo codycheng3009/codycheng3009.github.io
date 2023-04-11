@@ -47,6 +47,13 @@ When you don't have enough room to simple place both feet on the foothold, this 
 </video>
 This one is for the flashier and more confident climbers. You simple align your foot overtop of the other and make a small hop to switch out one foot for another. 
 
+## Standing on Volumes
+Volumes are big prism features that are allowed to be used in any route. They are typically used as footholds to challenge a climbers balance and technique. These types of problems are called "slabs." Here's how you can stand on volumes more effectively:
+
+<div style="position:relative;height:0;padding:56.25% 0 0 0;"><iframe src="https://www.dartfish.tv/Embed?CR=p191109c538461m7989900&VW=100%&VH=100%&sh=li&aid=accd8f56-2bc5-4737-8a9e-8693ca6b194f" style="position:absolute;display:block;width:100%;height:100%;max-width:100%;max-height:100%;left:0;right:0;top:0;bottom:0;margin:auto;" frameborder="0" allowfullscreen ></iframe></div>
+
+Notice how the left video shows a hesitant climber who is a afraid of slipping on the angled volume. As a result, less contact is made and the chances of slippin are much higher. In the right video, the heel is pressed down so that maximum shoe rubber contact can be made with the volume. This creates much more friction and stability, making it very easy to stand comfortably on the volume.
+
 # Body Positioning
 When climbing, a good rule of thumb to follow is to have opposite limbs in contact with the wall as much as possible to reduce the amount of swinging or "barndoor-ing." It's important to maintain body tension by driving through your feet and engaging your core. Here is an example and a comparison of how you can use foot swapping to improve your efficiency and reduce swinging:
 
