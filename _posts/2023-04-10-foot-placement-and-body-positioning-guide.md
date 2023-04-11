@@ -7,6 +7,7 @@ thumbnail-img: /assets/img/FootPlacement.png
 share-img: /assets/img/path.jpg
 tags: [technique, skill, foot, feet, positioning]
 ---
+# Foot Techniques
 
 When it comes to climbing, foot placement and using your lower body is one of the most important things you should learn. With this simple guide, you will be provided with the necessities to send your climbs with finesse! Before we dive into the specific techniques, there are a few key points to keep in mind first. 
 
@@ -45,3 +46,8 @@ When you don't have enough room to simple place both feet on the foothold, this 
   <source src="https://user-images.githubusercontent.com/123664793/231069239-d2f527a7-4be8-4631-afeb-29070f1d4fd0.mp4" type="video/mp4">
 </video>
 This one is for the flashier and more confident climbers. You simple align your foot overtop of the other and make a small hop to switch out one foot for another. 
+
+# Body Positioning
+
+![]
+![barn door]
