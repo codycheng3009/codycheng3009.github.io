@@ -2,8 +2,6 @@
 layout: post
 title: How to Dyno
 subtitle: Tips to help you with those pesky dynamic movements to far holds
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 date: 2023-04-10
