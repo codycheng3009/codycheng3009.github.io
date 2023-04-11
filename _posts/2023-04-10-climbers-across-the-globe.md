@@ -3,7 +3,7 @@ layout: post
 title: Climbers Across the Globe
 subtitle: 
 cover-img: /assets/img/BoulderingWall.jpg
-thumbnail-img: /assets/img/FootPlacement.png
+thumbnail-img: /assets/img/globe.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
