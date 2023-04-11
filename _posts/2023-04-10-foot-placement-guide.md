@@ -3,7 +3,7 @@ layout: post
 title: Foot Placement Guide
 subtitle: Essential Techniques You Should Know
 cover-img: /assets/img/BoulderingWall.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/FootPlacement.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
