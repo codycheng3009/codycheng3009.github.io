@@ -2,7 +2,7 @@
 layout: post
 title: How to Dyno
 subtitle: Tips to help you with those pesky dynamic movements to far holds
-tags: [test]
+tags: [dyno, dynamic]
 comments: true
 date: 2023-04-10
 ---
